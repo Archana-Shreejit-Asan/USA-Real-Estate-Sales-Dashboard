@@ -28,3 +28,10 @@ Designed an interactive Power BI dashboard to analyze the U.S. housing market us
 - Dashboard Design
 - Data Visualization
 - Business Intelligence
+-
+- ## Dashboard Preview
+
+- <img width="1518" height="833" alt="image" src="https://github.com/user-attachments/assets/99e3d639-2dd5-4837-a75f-c5386744522b" />
+
+
+
